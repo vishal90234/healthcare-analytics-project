@@ -1,0 +1,3 @@
+# healthcare-analytics-project
+Utilizing Healthcare Analytics for Early Detection and Management of Alzheimer's Disease
+Alzheimer's Disease (AD) is a progressive neurodegenerative disorder that primarily affects older adults, leading to memory loss, cognitive decline, and, eventually, loss of independence. Healthcare analytics provides powerful tools to enhance the early detection and improve the management of Alzheimer's Disease. By leveraging clinical data, genetic information, and behavioral patterns, healthcare professionals can better predict the onset of AD, tailor treatments, and optimize care.
